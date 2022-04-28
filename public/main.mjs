@@ -17,7 +17,7 @@ import {flip} from "../src"
         document.getElementById("home").setAttribute("class","active");
         document.getElementById("multi").setAttribute("class","hidden");
         document.getElementById("guess").setAttribute("class","hidden");
-        gitcommit= 83;
+        gitcommit= 84;
     }
 
     function displayMulti(event) {
